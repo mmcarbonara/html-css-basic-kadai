@@ -48,7 +48,7 @@ footer {
 a {
   font: rgb(255,255,255);
 }
-a:link {
+a:visited {
   color:rgb(193,234,251);
 }
 a:hover {
