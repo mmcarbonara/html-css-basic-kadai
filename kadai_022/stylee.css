@@ -46,7 +46,7 @@ footer {
   text-align: center;
 }
 a {
-  font: rgb(255,255,255);
+  color: rgb(255,255,255);
 }
 a:visited {
   color: rgb(193,234,251);
